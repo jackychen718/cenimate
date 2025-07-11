@@ -4,5 +4,4 @@ to = "/index.html"
 status = 200
 [secrets_scan]
   omit_keys = ["REACT_APP_API_KEY"]
-[secrets_scan]
   enabled = false
